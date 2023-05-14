@@ -2,7 +2,7 @@
 
 Introduction:
 
-This repository contains SQL queries for basic database management operations like create, insert, select, delete, update, import, and advanced operations like between, like, group by, and many more. These queries are helpful for beginners as well as intermediate level SQL learners.
+This repository contains SQL queries for basic database management operations like create, insert, select, delete, update, import, and advanced operations like between, like, group by, and many more. These queries are helpful for beginners as well as intermediate level SQL learners.and , it have a one data folder for using the queries in MySQL
 
 
 SQL Queries :
